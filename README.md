@@ -24,13 +24,7 @@ I build practical AI systems using **LLMs, multimodal AI, machine learning, and 
 
 </div>
 
-<br clear="both">
 
-<img
-  src="https://raw.githubusercontent.com/Abhaydel/Abhaydel/snake-output/dist/snake.svg"
-  alt="Snake animation"
-  width="800"
-/>
 
 ## About Me
 
